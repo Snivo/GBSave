@@ -1,56 +1,59 @@
-﻿namespace GBSave.Core.PokGen1;
+﻿using GBSave.Core.PokGen1.Modifiables;
+
+namespace GBSave.Core.PokGen1;
 
 
 public class Save : ISaveGame
 {
-    #region DataOffsets
-    const int PLAYER_NAME = 0x2598;
-    const int RIVAL_NAME = 0x25F6;
-    #endregion
+    public byte[] Data { get; private set; }
+    public string Game { get; private set; }
+    private string file;
 
+    string ISaveGame.Game => Game;
+    byte[] ISaveGame.Data => Data;
 
-    private byte[] data;
-    private string game;
+    private Dictionary<string, Modifiable> modifiables;
 
-    string ISaveGame.Game => game;
-    byte[] ISaveGame.Data => data;
-
-    #region GameData
-    public string Name { get; set; }
-    public string RivalName { get; set; }
-    #endregion
-
-    private void WriteByte(ushort addr, byte value) => data[addr] = value;
-    private void WriteBytes(ushort addr, byte[] bytes)
+    private void VerifyChecksums()
     {
-        for (int i = 0; i < bytes.Length; i++)
-            data[addr + i] = bytes[i];
+        WriteData("MainDataChecksum", ChecksumGenerator.Generate(Data, 0x2598, 0xF8B));
     }
 
-    private byte ReadByte(ushort addr) => data[addr];
-    private byte[] ReadBytes(ushort addr, int length) => data[(addr)..length];
-
-    private void ApplyChanges()
+    public void ConfirmChanges()
     {
-        WriteBytes(PLAYER_NAME, Gen1Encoding.StringToPKEncode(Name));
-        WriteBytes(RIVAL_NAME, Gen1Encoding.StringToPKEncode(RivalName));
+        VerifyChecksums();
+        File.WriteAllBytes(file, Data);
     }
 
-    private void LoadData()
+    public T? ReadData<T>(string fieldName) 
     {
-        Name = Gen1Encoding.PKEncodeToString(ReadBytes(PLAYER_NAME, 7));
+        if (modifiables.TryGetValue(fieldName, out Modifiable obj))
+            return (T)obj.Read();
 
-        RivalName = Gen1Encoding.PKEncodeToString(ReadBytes(RIVAL_NAME, 7));
+        return default;
     }
 
-    public Save(byte[] data)
+    public void WriteData(string fieldName, object value)
     {
-        this.data = data;
-        game = "Pokemon (Gen 1)";
+        if (modifiables.TryGetValue(fieldName, out Modifiable obj))
+            obj.Write(value);
+    }
+
+    public Save(string file)
+    {
+        Data = File.ReadAllBytes(file);
+        this.file = file;
+
+        Game = "Pokemon (Gen 1)";
         
-        if (data.Length != 0x8000)
+        if (Data.Length != 0x8000)
             return;
 
-        LoadData();
+        modifiables = new();
+        modifiables.Add("PlayerName", new ModifiableString(0x2598, 0x0B, this));
+        modifiables.Add("RivalName", new ModifiableString(0x25F6, 0x0B, this));
+
+        // Checksums // 
+        modifiables.Add("MainDataChecksum", new ModifiableByte(0x3523, 0x1, this));
     }
 }
