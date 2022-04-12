@@ -6,7 +6,7 @@ class ModifiableByte : Modifiable
 
     public override void Write(object obj) => data[offset] = (byte)obj;
 
-    public ModifiableByte(int offset, int length, Save save) : base(offset, length, save.Data)
+    public ModifiableByte(int offset, Save save) : base(offset, 1, save.Data)
     {
     }
 }
