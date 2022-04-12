@@ -53,7 +53,17 @@ public class Save : ISaveGame
         modifiables.Add("PlayerName", new ModifiableString(0x2598, 0x0B, this));
         modifiables.Add("RivalName", new ModifiableString(0x25F6, 0x0B, this));
 
+        // Gym badges //
+        modifiables.Add("BoulderBadge", new ModifiableBit(0x2602, 0, this));
+        modifiables.Add("CascadeBadge", new ModifiableBit(0x2602, 1, this));
+        modifiables.Add("ThunderBadge", new ModifiableBit(0x2602, 2, this));
+        modifiables.Add("RainbowBadge", new ModifiableBit(0x2602, 3, this));
+        modifiables.Add("SoulBadge",    new ModifiableBit(0x2602, 4, this));
+        modifiables.Add("MarshBadge",   new ModifiableBit(0x2602, 5, this));
+        modifiables.Add("VolcanoBadge", new ModifiableBit(0x2602, 6, this));
+        modifiables.Add("EarthBadge",   new ModifiableBit(0x2602, 7, this));
+
         // Checksums // 
-        modifiables.Add("MainDataChecksum", new ModifiableByte(0x3523, 0x1, this));
+        modifiables.Add("MainDataChecksum", new ModifiableByte(0x3523, this));
     }
 }
