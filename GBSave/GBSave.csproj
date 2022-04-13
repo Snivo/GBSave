@@ -7,4 +7,23 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Core\PokGen1\pokemon.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Core\PokGen1\Pokemon.cs" />
+    <Resource Include="Core\PokGen1\pokemon.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Core\PokGen1\pkmndata.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
