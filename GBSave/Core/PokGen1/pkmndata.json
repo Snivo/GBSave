@@ -1,0 +1,1521 @@
+[
+  {
+    "DexNum": 1,
+    "Name": "Bulbasaur",
+    "BaseHP": 45,
+    "BaseAttack": 49,
+    "BaseDefense": 49,
+    "BaseSpeed": 45,
+    "BaseSpecial": 65,
+    "Index": 153
+  },
+  {
+    "DexNum": 2,
+    "Name": "Ivysaur",
+    "BaseHP": 60,
+    "BaseAttack": 62,
+    "BaseDefense": 63,
+    "BaseSpeed": 60,
+    "BaseSpecial": 80,
+    "Index": 9
+  },
+  {
+    "DexNum": 3,
+    "Name": "Venusaur",
+    "BaseHP": 80,
+    "BaseAttack": 82,
+    "BaseDefense": 83,
+    "BaseSpeed": 80,
+    "BaseSpecial": 100,
+    "Index": 154
+  },
+  {
+    "DexNum": 4,
+    "Name": "Charmander",
+    "BaseHP": 39,
+    "BaseAttack": 52,
+    "BaseDefense": 43,
+    "BaseSpeed": 65,
+    "BaseSpecial": 50,
+    "Index": 176
+  },
+  {
+    "DexNum": 5,
+    "Name": "Charmeleon",
+    "BaseHP": 58,
+    "BaseAttack": 64,
+    "BaseDefense": 58,
+    "BaseSpeed": 80,
+    "BaseSpecial": 65,
+    "Index": 178
+  },
+  {
+    "DexNum": 6,
+    "Name": "Charizard",
+    "BaseHP": 78,
+    "BaseAttack": 84,
+    "BaseDefense": 78,
+    "BaseSpeed": 100,
+    "BaseSpecial": 85,
+    "Index": 180
+  },
+  {
+    "DexNum": 7,
+    "Name": "Squirtle",
+    "BaseHP": 44,
+    "BaseAttack": 48,
+    "BaseDefense": 65,
+    "BaseSpeed": 43,
+    "BaseSpecial": 50,
+    "Index": 177
+  },
+  {
+    "DexNum": 8,
+    "Name": "Wartortle",
+    "BaseHP": 59,
+    "BaseAttack": 63,
+    "BaseDefense": 80,
+    "BaseSpeed": 58,
+    "BaseSpecial": 65,
+    "Index": 179
+  },
+  {
+    "DexNum": 9,
+    "Name": "Blastoise",
+    "BaseHP": 79,
+    "BaseAttack": 83,
+    "BaseDefense": 100,
+    "BaseSpeed": 78,
+    "BaseSpecial": 85,
+    "Index": 28
+  },
+  {
+    "DexNum": 10,
+    "Name": "Caterpie",
+    "BaseHP": 45,
+    "BaseAttack": 30,
+    "BaseDefense": 35,
+    "BaseSpeed": 45,
+    "BaseSpecial": 20,
+    "Index": 123
+  },
+  {
+    "DexNum": 11,
+    "Name": "Metapod",
+    "BaseHP": 50,
+    "BaseAttack": 20,
+    "BaseDefense": 55,
+    "BaseSpeed": 30,
+    "BaseSpecial": 25,
+    "Index": 124
+  },
+  {
+    "DexNum": 12,
+    "Name": "Butterfree",
+    "BaseHP": 60,
+    "BaseAttack": 45,
+    "BaseDefense": 50,
+    "BaseSpeed": 70,
+    "BaseSpecial": 80,
+    "Index": 125
+  },
+  {
+    "DexNum": 13,
+    "Name": "Weedle",
+    "BaseHP": 40,
+    "BaseAttack": 35,
+    "BaseDefense": 30,
+    "BaseSpeed": 50,
+    "BaseSpecial": 20,
+    "Index": 112
+  },
+  {
+    "DexNum": 14,
+    "Name": "Kakuna",
+    "BaseHP": 45,
+    "BaseAttack": 25,
+    "BaseDefense": 50,
+    "BaseSpeed": 35,
+    "BaseSpecial": 25,
+    "Index": 113
+  },
+  {
+    "DexNum": 15,
+    "Name": "Beedrill",
+    "BaseHP": 65,
+    "BaseAttack": 80,
+    "BaseDefense": 40,
+    "BaseSpeed": 75,
+    "BaseSpecial": 45,
+    "Index": 114
+  },
+  {
+    "DexNum": 16,
+    "Name": "Pidgey",
+    "BaseHP": 40,
+    "BaseAttack": 45,
+    "BaseDefense": 40,
+    "BaseSpeed": 56,
+    "BaseSpecial": 35,
+    "Index": 36
+  },
+  {
+    "DexNum": 17,
+    "Name": "Pidgeotto",
+    "BaseHP": 63,
+    "BaseAttack": 60,
+    "BaseDefense": 55,
+    "BaseSpeed": 71,
+    "BaseSpecial": 50,
+    "Index": 150
+  },
+  {
+    "DexNum": 18,
+    "Name": "Pidgeot",
+    "BaseHP": 83,
+    "BaseAttack": 80,
+    "BaseDefense": 75,
+    "BaseSpeed": 91,
+    "BaseSpecial": 70,
+    "Index": 151
+  },
+  {
+    "DexNum": 19,
+    "Name": "Rattata",
+    "BaseHP": 30,
+    "BaseAttack": 56,
+    "BaseDefense": 35,
+    "BaseSpeed": 72,
+    "BaseSpecial": 25,
+    "Index": 165
+  },
+  {
+    "DexNum": 20,
+    "Name": "Raticate",
+    "BaseHP": 55,
+    "BaseAttack": 81,
+    "BaseDefense": 60,
+    "BaseSpeed": 97,
+    "BaseSpecial": 50,
+    "Index": 166
+  },
+  {
+    "DexNum": 21,
+    "Name": "Spearow",
+    "BaseHP": 40,
+    "BaseAttack": 60,
+    "BaseDefense": 30,
+    "BaseSpeed": 70,
+    "BaseSpecial": 31,
+    "Index": 5
+  },
+  {
+    "DexNum": 22,
+    "Name": "Fearow",
+    "BaseHP": 65,
+    "BaseAttack": 90,
+    "BaseDefense": 65,
+    "BaseSpeed": 100,
+    "BaseSpecial": 61,
+    "Index": 35
+  },
+  {
+    "DexNum": 23,
+    "Name": "Ekans",
+    "BaseHP": 35,
+    "BaseAttack": 60,
+    "BaseDefense": 44,
+    "BaseSpeed": 55,
+    "BaseSpecial": 40,
+    "Index": 108
+  },
+  {
+    "DexNum": 24,
+    "Name": "Arbok",
+    "BaseHP": 60,
+    "BaseAttack": 85,
+    "BaseDefense": 69,
+    "BaseSpeed": 80,
+    "BaseSpecial": 65,
+    "Index": 45
+  },
+  {
+    "DexNum": 25,
+    "Name": "Pikachu",
+    "BaseHP": 35,
+    "BaseAttack": 55,
+    "BaseDefense": 30,
+    "BaseSpeed": 90,
+    "BaseSpecial": 50,
+    "Index": 84
+  },
+  {
+    "DexNum": 26,
+    "Name": "Raichu",
+    "BaseHP": 60,
+    "BaseAttack": 90,
+    "BaseDefense": 55,
+    "BaseSpeed": 100,
+    "BaseSpecial": 90,
+    "Index": 85
+  },
+  {
+    "DexNum": 27,
+    "Name": "Sandshrew",
+    "BaseHP": 50,
+    "BaseAttack": 75,
+    "BaseDefense": 85,
+    "BaseSpeed": 40,
+    "BaseSpecial": 30,
+    "Index": 96
+  },
+  {
+    "DexNum": 28,
+    "Name": "Sandslash",
+    "BaseHP": 75,
+    "BaseAttack": 100,
+    "BaseDefense": 110,
+    "BaseSpeed": 65,
+    "BaseSpecial": 55,
+    "Index": 97
+  },
+  {
+    "DexNum": 29,
+    "Name": "Nidoran\u2640",
+    "BaseHP": 55,
+    "BaseAttack": 47,
+    "BaseDefense": 52,
+    "BaseSpeed": 41,
+    "BaseSpecial": 40,
+    "Index": 15
+  },
+  {
+    "DexNum": 30,
+    "Name": "Nidorina",
+    "BaseHP": 70,
+    "BaseAttack": 62,
+    "BaseDefense": 67,
+    "BaseSpeed": 56,
+    "BaseSpecial": 55,
+    "Index": 168
+  },
+  {
+    "DexNum": 31,
+    "Name": "Nidoqueen",
+    "BaseHP": 90,
+    "BaseAttack": 82,
+    "BaseDefense": 87,
+    "BaseSpeed": 76,
+    "BaseSpecial": 75,
+    "Index": 16
+  },
+  {
+    "DexNum": 32,
+    "Name": "Nidoran\u2642",
+    "BaseHP": 46,
+    "BaseAttack": 57,
+    "BaseDefense": 40,
+    "BaseSpeed": 50,
+    "BaseSpecial": 40,
+    "Index": 3
+  },
+  {
+    "DexNum": 33,
+    "Name": "Nidorino",
+    "BaseHP": 61,
+    "BaseAttack": 72,
+    "BaseDefense": 57,
+    "BaseSpeed": 65,
+    "BaseSpecial": 55,
+    "Index": 167
+  },
+  {
+    "DexNum": 34,
+    "Name": "Nidoking",
+    "BaseHP": 81,
+    "BaseAttack": 92,
+    "BaseDefense": 77,
+    "BaseSpeed": 85,
+    "BaseSpecial": 75,
+    "Index": 7
+  },
+  {
+    "DexNum": 35,
+    "Name": "Clefairy",
+    "BaseHP": 70,
+    "BaseAttack": 45,
+    "BaseDefense": 48,
+    "BaseSpeed": 35,
+    "BaseSpecial": 60,
+    "Index": 4
+  },
+  {
+    "DexNum": 36,
+    "Name": "Clefable",
+    "BaseHP": 95,
+    "BaseAttack": 70,
+    "BaseDefense": 73,
+    "BaseSpeed": 60,
+    "BaseSpecial": 85,
+    "Index": 142
+  },
+  {
+    "DexNum": 37,
+    "Name": "Vulpix",
+    "BaseHP": 38,
+    "BaseAttack": 41,
+    "BaseDefense": 40,
+    "BaseSpeed": 65,
+    "BaseSpecial": 65,
+    "Index": 82
+  },
+  {
+    "DexNum": 38,
+    "Name": "Ninetales",
+    "BaseHP": 73,
+    "BaseAttack": 76,
+    "BaseDefense": 75,
+    "BaseSpeed": 100,
+    "BaseSpecial": 100,
+    "Index": 83
+  },
+  {
+    "DexNum": 39,
+    "Name": "Jigglypuff",
+    "BaseHP": 115,
+    "BaseAttack": 45,
+    "BaseDefense": 20,
+    "BaseSpeed": 20,
+    "BaseSpecial": 25,
+    "Index": 100
+  },
+  {
+    "DexNum": 40,
+    "Name": "Wigglytuff",
+    "BaseHP": 140,
+    "BaseAttack": 70,
+    "BaseDefense": 45,
+    "BaseSpeed": 45,
+    "BaseSpecial": 50,
+    "Index": 101
+  },
+  {
+    "DexNum": 41,
+    "Name": "Zubat",
+    "BaseHP": 40,
+    "BaseAttack": 45,
+    "BaseDefense": 35,
+    "BaseSpeed": 55,
+    "BaseSpecial": 40,
+    "Index": 107
+  },
+  {
+    "DexNum": 42,
+    "Name": "Golbat",
+    "BaseHP": 75,
+    "BaseAttack": 80,
+    "BaseDefense": 70,
+    "BaseSpeed": 90,
+    "BaseSpecial": 75,
+    "Index": 130
+  },
+  {
+    "DexNum": 43,
+    "Name": "Oddish",
+    "BaseHP": 45,
+    "BaseAttack": 50,
+    "BaseDefense": 55,
+    "BaseSpeed": 30,
+    "BaseSpecial": 75,
+    "Index": 185
+  },
+  {
+    "DexNum": 44,
+    "Name": "Gloom",
+    "BaseHP": 60,
+    "BaseAttack": 65,
+    "BaseDefense": 70,
+    "BaseSpeed": 40,
+    "BaseSpecial": 85,
+    "Index": 186
+  },
+  {
+    "DexNum": 45,
+    "Name": "Vileplume",
+    "BaseHP": 75,
+    "BaseAttack": 80,
+    "BaseDefense": 85,
+    "BaseSpeed": 50,
+    "BaseSpecial": 100,
+    "Index": 187
+  },
+  {
+    "DexNum": 46,
+    "Name": "Paras",
+    "BaseHP": 35,
+    "BaseAttack": 70,
+    "BaseDefense": 55,
+    "BaseSpeed": 25,
+    "BaseSpecial": 55,
+    "Index": 109
+  },
+  {
+    "DexNum": 47,
+    "Name": "Parasect",
+    "BaseHP": 60,
+    "BaseAttack": 95,
+    "BaseDefense": 80,
+    "BaseSpeed": 30,
+    "BaseSpecial": 80,
+    "Index": 46
+  },
+  {
+    "DexNum": 48,
+    "Name": "Venonat",
+    "BaseHP": 60,
+    "BaseAttack": 55,
+    "BaseDefense": 50,
+    "BaseSpeed": 45,
+    "BaseSpecial": 40,
+    "Index": 65
+  },
+  {
+    "DexNum": 49,
+    "Name": "Venomoth",
+    "BaseHP": 70,
+    "BaseAttack": 65,
+    "BaseDefense": 60,
+    "BaseSpeed": 90,
+    "BaseSpecial": 90,
+    "Index": 119
+  },
+  {
+    "DexNum": 50,
+    "Name": "Diglett",
+    "BaseHP": 10,
+    "BaseAttack": 55,
+    "BaseDefense": 25,
+    "BaseSpeed": 95,
+    "BaseSpecial": 45,
+    "Index": 59
+  },
+  {
+    "DexNum": 51,
+    "Name": "Dugtrio",
+    "BaseHP": 35,
+    "BaseAttack": 80,
+    "BaseDefense": 50,
+    "BaseSpeed": 120,
+    "BaseSpecial": 70,
+    "Index": 118
+  },
+  {
+    "DexNum": 52,
+    "Name": "Meowth",
+    "BaseHP": 40,
+    "BaseAttack": 45,
+    "BaseDefense": 35,
+    "BaseSpeed": 90,
+    "BaseSpecial": 40,
+    "Index": 77
+  },
+  {
+    "DexNum": 53,
+    "Name": "Persian",
+    "BaseHP": 65,
+    "BaseAttack": 70,
+    "BaseDefense": 60,
+    "BaseSpeed": 115,
+    "BaseSpecial": 65,
+    "Index": 144
+  },
+  {
+    "DexNum": 54,
+    "Name": "Psyduck",
+    "BaseHP": 50,
+    "BaseAttack": 52,
+    "BaseDefense": 48,
+    "BaseSpeed": 55,
+    "BaseSpecial": 50,
+    "Index": 47
+  },
+  {
+    "DexNum": 55,
+    "Name": "Golduck",
+    "BaseHP": 80,
+    "BaseAttack": 82,
+    "BaseDefense": 78,
+    "BaseSpeed": 85,
+    "BaseSpecial": 80,
+    "Index": 128
+  },
+  {
+    "DexNum": 56,
+    "Name": "Mankey",
+    "BaseHP": 40,
+    "BaseAttack": 80,
+    "BaseDefense": 35,
+    "BaseSpeed": 70,
+    "BaseSpecial": 35,
+    "Index": 57
+  },
+  {
+    "DexNum": 57,
+    "Name": "Primeape",
+    "BaseHP": 65,
+    "BaseAttack": 105,
+    "BaseDefense": 60,
+    "BaseSpeed": 95,
+    "BaseSpecial": 60,
+    "Index": 117
+  },
+  {
+    "DexNum": 58,
+    "Name": "Growlithe",
+    "BaseHP": 55,
+    "BaseAttack": 70,
+    "BaseDefense": 45,
+    "BaseSpeed": 60,
+    "BaseSpecial": 50,
+    "Index": 33
+  },
+  {
+    "DexNum": 59,
+    "Name": "Arcanine",
+    "BaseHP": 90,
+    "BaseAttack": 110,
+    "BaseDefense": 80,
+    "BaseSpeed": 95,
+    "BaseSpecial": 80,
+    "Index": 20
+  },
+  {
+    "DexNum": 60,
+    "Name": "Poliwag",
+    "BaseHP": 40,
+    "BaseAttack": 50,
+    "BaseDefense": 40,
+    "BaseSpeed": 90,
+    "BaseSpecial": 40,
+    "Index": 71
+  },
+  {
+    "DexNum": 61,
+    "Name": "Poliwhirl",
+    "BaseHP": 65,
+    "BaseAttack": 65,
+    "BaseDefense": 65,
+    "BaseSpeed": 90,
+    "BaseSpecial": 50,
+    "Index": 110
+  },
+  {
+    "DexNum": 62,
+    "Name": "Poliwrath",
+    "BaseHP": 90,
+    "BaseAttack": 85,
+    "BaseDefense": 95,
+    "BaseSpeed": 70,
+    "BaseSpecial": 70,
+    "Index": 111
+  },
+  {
+    "DexNum": 63,
+    "Name": "Abra",
+    "BaseHP": 25,
+    "BaseAttack": 20,
+    "BaseDefense": 15,
+    "BaseSpeed": 90,
+    "BaseSpecial": 105,
+    "Index": 148
+  },
+  {
+    "DexNum": 64,
+    "Name": "Kadabra",
+    "BaseHP": 40,
+    "BaseAttack": 35,
+    "BaseDefense": 30,
+    "BaseSpeed": 105,
+    "BaseSpecial": 120,
+    "Index": 38
+  },
+  {
+    "DexNum": 65,
+    "Name": "Alakazam",
+    "BaseHP": 55,
+    "BaseAttack": 50,
+    "BaseDefense": 45,
+    "BaseSpeed": 120,
+    "BaseSpecial": 135,
+    "Index": 149
+  },
+  {
+    "DexNum": 66,
+    "Name": "Machop",
+    "BaseHP": 70,
+    "BaseAttack": 80,
+    "BaseDefense": 50,
+    "BaseSpeed": 35,
+    "BaseSpecial": 35,
+    "Index": 106
+  },
+  {
+    "DexNum": 67,
+    "Name": "Machoke",
+    "BaseHP": 80,
+    "BaseAttack": 100,
+    "BaseDefense": 70,
+    "BaseSpeed": 45,
+    "BaseSpecial": 50,
+    "Index": 41
+  },
+  {
+    "DexNum": 68,
+    "Name": "Machamp",
+    "BaseHP": 90,
+    "BaseAttack": 130,
+    "BaseDefense": 80,
+    "BaseSpeed": 55,
+    "BaseSpecial": 65,
+    "Index": 126
+  },
+  {
+    "DexNum": 69,
+    "Name": "Bellsprout",
+    "BaseHP": 50,
+    "BaseAttack": 75,
+    "BaseDefense": 35,
+    "BaseSpeed": 40,
+    "BaseSpecial": 70,
+    "Index": 188
+  },
+  {
+    "DexNum": 70,
+    "Name": "Weepinbell",
+    "BaseHP": 65,
+    "BaseAttack": 90,
+    "BaseDefense": 50,
+    "BaseSpeed": 55,
+    "BaseSpecial": 85,
+    "Index": 189
+  },
+  {
+    "DexNum": 71,
+    "Name": "Victreebel",
+    "BaseHP": 80,
+    "BaseAttack": 105,
+    "BaseDefense": 65,
+    "BaseSpeed": 70,
+    "BaseSpecial": 100,
+    "Index": 190
+  },
+  {
+    "DexNum": 72,
+    "Name": "Tentacool",
+    "BaseHP": 40,
+    "BaseAttack": 40,
+    "BaseDefense": 35,
+    "BaseSpeed": 70,
+    "BaseSpecial": 100,
+    "Index": 24
+  },
+  {
+    "DexNum": 73,
+    "Name": "Tentacruel",
+    "BaseHP": 80,
+    "BaseAttack": 70,
+    "BaseDefense": 65,
+    "BaseSpeed": 100,
+    "BaseSpecial": 120,
+    "Index": 155
+  },
+  {
+    "DexNum": 74,
+    "Name": "Geodude",
+    "BaseHP": 40,
+    "BaseAttack": 80,
+    "BaseDefense": 100,
+    "BaseSpeed": 20,
+    "BaseSpecial": 30,
+    "Index": 169
+  },
+  {
+    "DexNum": 75,
+    "Name": "Graveler",
+    "BaseHP": 55,
+    "BaseAttack": 95,
+    "BaseDefense": 115,
+    "BaseSpeed": 35,
+    "BaseSpecial": 45,
+    "Index": 39
+  },
+  {
+    "DexNum": 76,
+    "Name": "Golem",
+    "BaseHP": 80,
+    "BaseAttack": 110,
+    "BaseDefense": 130,
+    "BaseSpeed": 45,
+    "BaseSpecial": 55,
+    "Index": 49
+  },
+  {
+    "DexNum": 77,
+    "Name": "Ponyta",
+    "BaseHP": 50,
+    "BaseAttack": 85,
+    "BaseDefense": 55,
+    "BaseSpeed": 90,
+    "BaseSpecial": 65,
+    "Index": 163
+  },
+  {
+    "DexNum": 78,
+    "Name": "Rapidash",
+    "BaseHP": 65,
+    "BaseAttack": 100,
+    "BaseDefense": 70,
+    "BaseSpeed": 105,
+    "BaseSpecial": 80,
+    "Index": 164
+  },
+  {
+    "DexNum": 79,
+    "Name": "Slowpoke",
+    "BaseHP": 90,
+    "BaseAttack": 65,
+    "BaseDefense": 65,
+    "BaseSpeed": 15,
+    "BaseSpecial": 40,
+    "Index": 37
+  },
+  {
+    "DexNum": 80,
+    "Name": "Slowbro",
+    "BaseHP": 95,
+    "BaseAttack": 75,
+    "BaseDefense": 110,
+    "BaseSpeed": 30,
+    "BaseSpecial": 80,
+    "Index": 8
+  },
+  {
+    "DexNum": 81,
+    "Name": "Magnemite",
+    "BaseHP": 25,
+    "BaseAttack": 35,
+    "BaseDefense": 70,
+    "BaseSpeed": 45,
+    "BaseSpecial": 95,
+    "Index": 173
+  },
+  {
+    "DexNum": 82,
+    "Name": "Magneton",
+    "BaseHP": 50,
+    "BaseAttack": 60,
+    "BaseDefense": 95,
+    "BaseSpeed": 70,
+    "BaseSpecial": 120,
+    "Index": 54
+  },
+  {
+    "DexNum": 83,
+    "Name": "Farfetch'd",
+    "BaseHP": 52,
+    "BaseAttack": 65,
+    "BaseDefense": 55,
+    "BaseSpeed": 60,
+    "BaseSpecial": 58,
+    "Index": 64
+  },
+  {
+    "DexNum": 84,
+    "Name": "Doduo",
+    "BaseHP": 35,
+    "BaseAttack": 85,
+    "BaseDefense": 45,
+    "BaseSpeed": 75,
+    "BaseSpecial": 35,
+    "Index": 70
+  },
+  {
+    "DexNum": 85,
+    "Name": "Dodrio",
+    "BaseHP": 60,
+    "BaseAttack": 110,
+    "BaseDefense": 70,
+    "BaseSpeed": 100,
+    "BaseSpecial": 60,
+    "Index": 116
+  },
+  {
+    "DexNum": 86,
+    "Name": "Seel",
+    "BaseHP": 65,
+    "BaseAttack": 45,
+    "BaseDefense": 55,
+    "BaseSpeed": 45,
+    "BaseSpecial": 70,
+    "Index": 58
+  },
+  {
+    "DexNum": 87,
+    "Name": "Dewgong",
+    "BaseHP": 90,
+    "BaseAttack": 70,
+    "BaseDefense": 80,
+    "BaseSpeed": 70,
+    "BaseSpecial": 95,
+    "Index": 120
+  },
+  {
+    "DexNum": 88,
+    "Name": "Grimer",
+    "BaseHP": 80,
+    "BaseAttack": 80,
+    "BaseDefense": 50,
+    "BaseSpeed": 25,
+    "BaseSpecial": 40,
+    "Index": 13
+  },
+  {
+    "DexNum": 89,
+    "Name": "Muk",
+    "BaseHP": 105,
+    "BaseAttack": 105,
+    "BaseDefense": 75,
+    "BaseSpeed": 50,
+    "BaseSpecial": 65,
+    "Index": 136
+  },
+  {
+    "DexNum": 90,
+    "Name": "Shellder",
+    "BaseHP": 30,
+    "BaseAttack": 65,
+    "BaseDefense": 100,
+    "BaseSpeed": 40,
+    "BaseSpecial": 45,
+    "Index": 23
+  },
+  {
+    "DexNum": 91,
+    "Name": "Cloyster",
+    "BaseHP": 50,
+    "BaseAttack": 95,
+    "BaseDefense": 180,
+    "BaseSpeed": 70,
+    "BaseSpecial": 85,
+    "Index": 139
+  },
+  {
+    "DexNum": 92,
+    "Name": "Gastly",
+    "BaseHP": 30,
+    "BaseAttack": 35,
+    "BaseDefense": 30,
+    "BaseSpeed": 80,
+    "BaseSpecial": 100,
+    "Index": 25
+  },
+  {
+    "DexNum": 93,
+    "Name": "Haunter",
+    "BaseHP": 45,
+    "BaseAttack": 50,
+    "BaseDefense": 45,
+    "BaseSpeed": 95,
+    "BaseSpecial": 115,
+    "Index": 147
+  },
+  {
+    "DexNum": 94,
+    "Name": "Gengar",
+    "BaseHP": 60,
+    "BaseAttack": 65,
+    "BaseDefense": 60,
+    "BaseSpeed": 110,
+    "BaseSpecial": 130,
+    "Index": 14
+  },
+  {
+    "DexNum": 95,
+    "Name": "Onix",
+    "BaseHP": 35,
+    "BaseAttack": 45,
+    "BaseDefense": 160,
+    "BaseSpeed": 70,
+    "BaseSpecial": 30,
+    "Index": 34
+  },
+  {
+    "DexNum": 96,
+    "Name": "Drowzee",
+    "BaseHP": 60,
+    "BaseAttack": 48,
+    "BaseDefense": 45,
+    "BaseSpeed": 42,
+    "BaseSpecial": 90,
+    "Index": 48
+  },
+  {
+    "DexNum": 97,
+    "Name": "Hypno",
+    "BaseHP": 85,
+    "BaseAttack": 73,
+    "BaseDefense": 70,
+    "BaseSpeed": 67,
+    "BaseSpecial": 115,
+    "Index": 129
+  },
+  {
+    "DexNum": 98,
+    "Name": "Krabby",
+    "BaseHP": 30,
+    "BaseAttack": 105,
+    "BaseDefense": 90,
+    "BaseSpeed": 50,
+    "BaseSpecial": 25,
+    "Index": 78
+  },
+  {
+    "DexNum": 99,
+    "Name": "Kingler",
+    "BaseHP": 55,
+    "BaseAttack": 130,
+    "BaseDefense": 115,
+    "BaseSpeed": 75,
+    "BaseSpecial": 50,
+    "Index": 138
+  },
+  {
+    "DexNum": 100,
+    "Name": "Voltorb",
+    "BaseHP": 40,
+    "BaseAttack": 30,
+    "BaseDefense": 50,
+    "BaseSpeed": 100,
+    "BaseSpecial": 55,
+    "Index": 6
+  },
+  {
+    "DexNum": 101,
+    "Name": "Electrode",
+    "BaseHP": 60,
+    "BaseAttack": 50,
+    "BaseDefense": 70,
+    "BaseSpeed": 140,
+    "BaseSpecial": 80,
+    "Index": 141
+  },
+  {
+    "DexNum": 102,
+    "Name": "Exeggcute",
+    "BaseHP": 60,
+    "BaseAttack": 40,
+    "BaseDefense": 80,
+    "BaseSpeed": 40,
+    "BaseSpecial": 60,
+    "Index": 12
+  },
+  {
+    "DexNum": 103,
+    "Name": "Exeggutor",
+    "BaseHP": 95,
+    "BaseAttack": 95,
+    "BaseDefense": 85,
+    "BaseSpeed": 55,
+    "BaseSpecial": 125,
+    "Index": 10
+  },
+  {
+    "DexNum": 104,
+    "Name": "Cubone",
+    "BaseHP": 50,
+    "BaseAttack": 50,
+    "BaseDefense": 95,
+    "BaseSpeed": 35,
+    "BaseSpecial": 40,
+    "Index": 17
+  },
+  {
+    "DexNum": 105,
+    "Name": "Marowak",
+    "BaseHP": 60,
+    "BaseAttack": 80,
+    "BaseDefense": 110,
+    "BaseSpeed": 45,
+    "BaseSpecial": 50,
+    "Index": 145
+  },
+  {
+    "DexNum": 106,
+    "Name": "Hitmonlee",
+    "BaseHP": 50,
+    "BaseAttack": 120,
+    "BaseDefense": 53,
+    "BaseSpeed": 87,
+    "BaseSpecial": 35,
+    "Index": 43
+  },
+  {
+    "DexNum": 107,
+    "Name": "Hitmonchan",
+    "BaseHP": 50,
+    "BaseAttack": 105,
+    "BaseDefense": 79,
+    "BaseSpeed": 76,
+    "BaseSpecial": 35,
+    "Index": 44
+  },
+  {
+    "DexNum": 108,
+    "Name": "Lickitung",
+    "BaseHP": 90,
+    "BaseAttack": 55,
+    "BaseDefense": 75,
+    "BaseSpeed": 30,
+    "BaseSpecial": 60,
+    "Index": 11
+  },
+  {
+    "DexNum": 109,
+    "Name": "Koffing",
+    "BaseHP": 40,
+    "BaseAttack": 65,
+    "BaseDefense": 95,
+    "BaseSpeed": 35,
+    "BaseSpecial": 60,
+    "Index": 55
+  },
+  {
+    "DexNum": 110,
+    "Name": "Weezing",
+    "BaseHP": 65,
+    "BaseAttack": 90,
+    "BaseDefense": 120,
+    "BaseSpeed": 60,
+    "BaseSpecial": 85,
+    "Index": 143
+  },
+  {
+    "DexNum": 111,
+    "Name": "Rhyhorn",
+    "BaseHP": 80,
+    "BaseAttack": 85,
+    "BaseDefense": 95,
+    "BaseSpeed": 25,
+    "BaseSpecial": 30,
+    "Index": 18
+  },
+  {
+    "DexNum": 112,
+    "Name": "Rhydon",
+    "BaseHP": 105,
+    "BaseAttack": 130,
+    "BaseDefense": 120,
+    "BaseSpeed": 40,
+    "BaseSpecial": 45,
+    "Index": 1
+  },
+  {
+    "DexNum": 113,
+    "Name": "Chansey",
+    "BaseHP": 250,
+    "BaseAttack": 5,
+    "BaseDefense": 5,
+    "BaseSpeed": 50,
+    "BaseSpecial": 105,
+    "Index": 40
+  },
+  {
+    "DexNum": 114,
+    "Name": "Tangela",
+    "BaseHP": 65,
+    "BaseAttack": 55,
+    "BaseDefense": 115,
+    "BaseSpeed": 60,
+    "BaseSpecial": 100,
+    "Index": 30
+  },
+  {
+    "DexNum": 115,
+    "Name": "Kangaskhan",
+    "BaseHP": 105,
+    "BaseAttack": 95,
+    "BaseDefense": 80,
+    "BaseSpeed": 90,
+    "BaseSpecial": 40,
+    "Index": 2
+  },
+  {
+    "DexNum": 116,
+    "Name": "Horsea",
+    "BaseHP": 30,
+    "BaseAttack": 40,
+    "BaseDefense": 70,
+    "BaseSpeed": 60,
+    "BaseSpecial": 70,
+    "Index": 92
+  },
+  {
+    "DexNum": 117,
+    "Name": "Seadra",
+    "BaseHP": 55,
+    "BaseAttack": 65,
+    "BaseDefense": 95,
+    "BaseSpeed": 85,
+    "BaseSpecial": 95,
+    "Index": 93
+  },
+  {
+    "DexNum": 118,
+    "Name": "Goldeen",
+    "BaseHP": 45,
+    "BaseAttack": 67,
+    "BaseDefense": 60,
+    "BaseSpeed": 63,
+    "BaseSpecial": 50,
+    "Index": 157
+  },
+  {
+    "DexNum": 119,
+    "Name": "Seaking",
+    "BaseHP": 80,
+    "BaseAttack": 92,
+    "BaseDefense": 65,
+    "BaseSpeed": 68,
+    "BaseSpecial": 80,
+    "Index": 158
+  },
+  {
+    "DexNum": 120,
+    "Name": "Staryu",
+    "BaseHP": 30,
+    "BaseAttack": 45,
+    "BaseDefense": 55,
+    "BaseSpeed": 85,
+    "BaseSpecial": 70,
+    "Index": 27
+  },
+  {
+    "DexNum": 121,
+    "Name": "Starmie",
+    "BaseHP": 60,
+    "BaseAttack": 75,
+    "BaseDefense": 85,
+    "BaseSpeed": 115,
+    "BaseSpecial": 100,
+    "Index": 152
+  },
+  {
+    "DexNum": 122,
+    "Name": "Mr. Mime",
+    "BaseHP": 40,
+    "BaseAttack": 45,
+    "BaseDefense": 65,
+    "BaseSpeed": 90,
+    "BaseSpecial": 100,
+    "Index": 42
+  },
+  {
+    "DexNum": 123,
+    "Name": "Scyther",
+    "BaseHP": 70,
+    "BaseAttack": 110,
+    "BaseDefense": 80,
+    "BaseSpeed": 105,
+    "BaseSpecial": 55,
+    "Index": 26
+  },
+  {
+    "DexNum": 124,
+    "Name": "Jynx",
+    "BaseHP": 65,
+    "BaseAttack": 50,
+    "BaseDefense": 35,
+    "BaseSpeed": 95,
+    "BaseSpecial": 95,
+    "Index": 72
+  },
+  {
+    "DexNum": 125,
+    "Name": "Electabuzz",
+    "BaseHP": 65,
+    "BaseAttack": 83,
+    "BaseDefense": 57,
+    "BaseSpeed": 105,
+    "BaseSpecial": 85,
+    "Index": 53
+  },
+  {
+    "DexNum": 126,
+    "Name": "Magmar",
+    "BaseHP": 65,
+    "BaseAttack": 95,
+    "BaseDefense": 57,
+    "BaseSpeed": 93,
+    "BaseSpecial": 85,
+    "Index": 51
+  },
+  {
+    "DexNum": 127,
+    "Name": "Pinsir",
+    "BaseHP": 65,
+    "BaseAttack": 125,
+    "BaseDefense": 100,
+    "BaseSpeed": 85,
+    "BaseSpecial": 55,
+    "Index": 29
+  },
+  {
+    "DexNum": 128,
+    "Name": "Tauros",
+    "BaseHP": 75,
+    "BaseAttack": 100,
+    "BaseDefense": 95,
+    "BaseSpeed": 110,
+    "BaseSpecial": 70,
+    "Index": 60
+  },
+  {
+    "DexNum": 129,
+    "Name": "Magikarp",
+    "BaseHP": 20,
+    "BaseAttack": 10,
+    "BaseDefense": 55,
+    "BaseSpeed": 80,
+    "BaseSpecial": 20,
+    "Index": 133
+  },
+  {
+    "DexNum": 130,
+    "Name": "Gyarados",
+    "BaseHP": 95,
+    "BaseAttack": 125,
+    "BaseDefense": 79,
+    "BaseSpeed": 81,
+    "BaseSpecial": 100,
+    "Index": 22
+  },
+  {
+    "DexNum": 131,
+    "Name": "Lapras",
+    "BaseHP": 130,
+    "BaseAttack": 85,
+    "BaseDefense": 80,
+    "BaseSpeed": 60,
+    "BaseSpecial": 95,
+    "Index": 19
+  },
+  {
+    "DexNum": 132,
+    "Name": "Ditto",
+    "BaseHP": 48,
+    "BaseAttack": 48,
+    "BaseDefense": 48,
+    "BaseSpeed": 48,
+    "BaseSpecial": 48,
+    "Index": 76
+  },
+  {
+    "DexNum": 133,
+    "Name": "Eevee",
+    "BaseHP": 55,
+    "BaseAttack": 55,
+    "BaseDefense": 50,
+    "BaseSpeed": 55,
+    "BaseSpecial": 65,
+    "Index": 102
+  },
+  {
+    "DexNum": 134,
+    "Name": "Vaporeon",
+    "BaseHP": 130,
+    "BaseAttack": 65,
+    "BaseDefense": 60,
+    "BaseSpeed": 65,
+    "BaseSpecial": 110,
+    "Index": 105
+  },
+  {
+    "DexNum": 135,
+    "Name": "Jolteon",
+    "BaseHP": 65,
+    "BaseAttack": 65,
+    "BaseDefense": 60,
+    "BaseSpeed": 130,
+    "BaseSpecial": 110,
+    "Index": 104
+  },
+  {
+    "DexNum": 136,
+    "Name": "Flareon",
+    "BaseHP": 65,
+    "BaseAttack": 130,
+    "BaseDefense": 60,
+    "BaseSpeed": 65,
+    "BaseSpecial": 110,
+    "Index": 103
+  },
+  {
+    "DexNum": 137,
+    "Name": "Porygon",
+    "BaseHP": 65,
+    "BaseAttack": 60,
+    "BaseDefense": 70,
+    "BaseSpeed": 40,
+    "BaseSpecial": 75,
+    "Index": 170
+  },
+  {
+    "DexNum": 138,
+    "Name": "Omanyte",
+    "BaseHP": 35,
+    "BaseAttack": 40,
+    "BaseDefense": 100,
+    "BaseSpeed": 35,
+    "BaseSpecial": 90,
+    "Index": 98
+  },
+  {
+    "DexNum": 139,
+    "Name": "Omastar",
+    "BaseHP": 70,
+    "BaseAttack": 60,
+    "BaseDefense": 125,
+    "BaseSpeed": 55,
+    "BaseSpecial": 115,
+    "Index": 99
+  },
+  {
+    "DexNum": 140,
+    "Name": "Kabuto",
+    "BaseHP": 30,
+    "BaseAttack": 80,
+    "BaseDefense": 90,
+    "BaseSpeed": 55,
+    "BaseSpecial": 45,
+    "Index": 90
+  },
+  {
+    "DexNum": 141,
+    "Name": "Kabutops",
+    "BaseHP": 60,
+    "BaseAttack": 115,
+    "BaseDefense": 105,
+    "BaseSpeed": 80,
+    "BaseSpecial": 70,
+    "Index": 91
+  },
+  {
+    "DexNum": 142,
+    "Name": "Aerodactyl",
+    "BaseHP": 80,
+    "BaseAttack": 105,
+    "BaseDefense": 65,
+    "BaseSpeed": 130,
+    "BaseSpecial": 60,
+    "Index": 171
+  },
+  {
+    "DexNum": 143,
+    "Name": "Snorlax",
+    "BaseHP": 160,
+    "BaseAttack": 110,
+    "BaseDefense": 65,
+    "BaseSpeed": 30,
+    "BaseSpecial": 65,
+    "Index": 132
+  },
+  {
+    "DexNum": 144,
+    "Name": "Articuno",
+    "BaseHP": 90,
+    "BaseAttack": 85,
+    "BaseDefense": 100,
+    "BaseSpeed": 85,
+    "BaseSpecial": 125,
+    "Index": 74
+  },
+  {
+    "DexNum": 145,
+    "Name": "Zapdos",
+    "BaseHP": 90,
+    "BaseAttack": 90,
+    "BaseDefense": 85,
+    "BaseSpeed": 100,
+    "BaseSpecial": 125,
+    "Index": 75
+  },
+  {
+    "DexNum": 146,
+    "Name": "Moltres",
+    "BaseHP": 90,
+    "BaseAttack": 100,
+    "BaseDefense": 90,
+    "BaseSpeed": 90,
+    "BaseSpecial": 125,
+    "Index": 73
+  },
+  {
+    "DexNum": 147,
+    "Name": "Dratini",
+    "BaseHP": 41,
+    "BaseAttack": 64,
+    "BaseDefense": 45,
+    "BaseSpeed": 50,
+    "BaseSpecial": 50,
+    "Index": 88
+  },
+  {
+    "DexNum": 148,
+    "Name": "Dragonair",
+    "BaseHP": 61,
+    "BaseAttack": 84,
+    "BaseDefense": 65,
+    "BaseSpeed": 70,
+    "BaseSpecial": 70,
+    "Index": 89
+  },
+  {
+    "DexNum": 149,
+    "Name": "Dragonite",
+    "BaseHP": 91,
+    "BaseAttack": 134,
+    "BaseDefense": 95,
+    "BaseSpeed": 80,
+    "BaseSpecial": 100,
+    "Index": 66
+  },
+  {
+    "DexNum": 150,
+    "Name": "Mewtwo",
+    "BaseHP": 106,
+    "BaseAttack": 110,
+    "BaseDefense": 90,
+    "BaseSpeed": 130,
+    "BaseSpecial": 154,
+    "Index": 131
+  },
+  {
+    "DexNum": 151,
+    "Name": "Mew",
+    "BaseHP": 100,
+    "BaseAttack": 100,
+    "BaseDefense": 100,
+    "BaseSpeed": 100,
+    "BaseSpecial": 100,
+    "Index": 21
+  },
+  {
+    "DexNum": 0,
+    "Name": "Missingno",
+    "BaseHP": -1,
+    "BaseAttack": -1,
+    "BaseDefense": -1,
+    "BaseSpeed": -1,
+    "BaseSpecial": -1
+  }
+]
