@@ -22,6 +22,7 @@ public struct Pokemon
 
     static Pokemon()
     {
+        /* Thanks to my boy HowITsDone (https://github.com/gingerchicken) for scraping the values off bulbapedia so i didn't have to */
         PokemonList = JsonConvert.DeserializeObject<List<Pokemon>>(File.ReadAllText(@"Core\PokGen1\pkmndata.json")).ToArray();
     }
 }
