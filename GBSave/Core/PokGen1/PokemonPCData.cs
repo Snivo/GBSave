@@ -34,6 +34,11 @@ public class PokemonPCData
     public byte Move2PP { get; set; }
     public byte Move3PP { get; set; }
     public byte Move4PP { get; set; }
+
+    public void GetBinaryData(ref byte[] data)
+    {
+
+    }
 }
 
 public struct IVData
