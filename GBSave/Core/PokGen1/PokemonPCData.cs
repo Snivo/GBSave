@@ -37,7 +37,54 @@ public class PokemonPCData
 
     public void GetBinaryData(ref byte[] data)
     {
+        data[0x00] = Species;
 
+        data[0x01] = (byte)(CurrentHP >> 8);
+        data[0x02] = (byte)CurrentHP;
+
+        data[0x03] = Level;
+
+        data[0x04] = StatusCondition;
+
+        data[0x05] = Type1;
+        data[0x06] = Type2;
+
+        data[0x07] = CatchRate;
+
+        data[0x08] = Move1;
+        data[0x09] = Move2;
+        data[0x0A] = Move3;
+        data[0x0B] = Move4;
+
+        data[0x0C] = (byte)(OTID >> 8);
+        data[0x0D] = (byte)OTID;
+
+        data[0x0E] = (byte)(EXP >> 16);
+        data[0x0F] = (byte)(EXP >> 8);
+        data[0x10] = (byte)EXP;
+
+        data[0x11] = (byte)(EVData.HP >> 8);
+        data[0x12] = (byte)EVData.HP;
+
+        data[0x13] = (byte)(EVData.Attack >> 8);
+        data[0x14] = (byte)EVData.Attack;
+
+        data[0x15] = (byte)(EVData.Defense >> 8);
+        data[0x16] = (byte)EVData.Defense;
+
+        data[0x17] = (byte)(EVData.Speed >> 8);
+        data[0x18] = (byte)EVData.Speed;
+
+        data[0x19] = (byte)(EVData.Special >> 8);
+        data[0x1A] = (byte)EVData.Special;
+
+        data[0x1B] = (byte)(IVData.RawIV >> 8);
+        data[0x1C] = (byte)IVData.RawIV;
+
+        data[0x1D] = Move1PP;
+        data[0x1E] = Move2PP;
+        data[0x1F] = Move3PP;
+        data[0x20] = Move4PP;
     }
 }
 
